@@ -1,0 +1,11 @@
+# glitch
+.glitch-assets
+shrinkwrap.yaml
+.bash_history
+.cache
+.config
+.data
+.git
+
+# runtime data
+node_modules/

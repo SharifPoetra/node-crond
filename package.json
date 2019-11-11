@@ -1,0 +1,28 @@
+{
+  "name": "crond",
+  "description": "Schedule deleting all file in a directory in X time after their creation.",
+  "version": "1.0.0",
+  "main": "./src/index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SharifPoetra/node-crond.git"
+  },
+  "keywords": [
+    "node",
+    "crond",
+    "cronjob",
+    "delete",
+    "file",
+    "schedule",
+    "scheduling"
+  ],
+  "author": "SharifPoetra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SharifPoetra/node-crond/issues"
+  },
+  "homepage": "https://github.com/SharifPoetra/node-crond#readme"
+}
