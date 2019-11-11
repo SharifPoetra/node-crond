@@ -1,7 +1,7 @@
 {
   "name": "node-crond",
   "description": "Schedule deleting all file in a directory in X time after their creation.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "./src/index.js",
   "dependencies": {},
   "devDependencies": {},
