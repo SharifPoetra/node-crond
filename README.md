@@ -11,7 +11,7 @@ Schedule deleting all file in a directory in X time after their creation.
 ## Example usage
 
 ```javascript
-const CronD = require("crond");
+const CronD = require("node-crond");
 
 // intialize crond to delete all files in ./path/to/dir directory with 120000ms (2 minutes) after the file creation time
 const crond = new CronD({ directory: "./path/to/dir", timeInMs: 120000 });
