@@ -9,8 +9,6 @@
   <a href='https://github.com/SharifPoetra/node-crond/blob/master/package.json'><img alt="GitHub package.json version" src="https://img.shields.io/github/package-json/v/SharifPoetra/node-crond.svg"></a>
 </p>  
 
-Schedule deleting all file in a directory in X time after their creation.
-
 ## Installation
 ```bash
 npm install node-crond --save
