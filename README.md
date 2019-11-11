@@ -2,6 +2,11 @@
 
 Schedule deleting all file in a directory in X time after their creation.
 
+## Installation
+```bash
+npm install node-crond --save
+```
+
 ## Options
 
 - `directory` String - The path to directory
