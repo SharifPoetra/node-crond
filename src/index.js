@@ -43,7 +43,7 @@ class CronD {
     }, 5000);
   }
   
-  cancle() {
+  cancel() {
     if (this.interval === null) throw new Error("There's no running task");
     else clearInterval(this.interval)
   }

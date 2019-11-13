@@ -32,5 +32,5 @@ const crond = new CronD({ dir: "./path/to/dir", timeInMs: 120000 });
 crond.init();
 
 // clear the interval
-crond.cancle();
+crond.cancel();
 ```
